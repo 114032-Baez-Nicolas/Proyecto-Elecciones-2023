@@ -24,11 +24,5 @@ Este proyecto implementa un sistema de gestión y consulta de resultados elector
 ## **Requisitos Previos**
 1. **Java 17+**
 2. **Maven 3+**
-
----
-
-## **Cómo Ejecutar**
-1. Clonar este repositorio:
-   ```bash
    git clone https://github.com/usuario/proyecto-elecciones-2023.git
    cd proyecto-elecciones-2023
